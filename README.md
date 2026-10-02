@@ -1,16 +1,88 @@
-## Hi there 👋
+Olá, eu sou João Vitor! 👋
 
-<!--
-**joaovittorr/joaovittorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end | React · TypeScript · Next.js
 
-Here are some ideas to get you started:
+Desenvolvimento Web
+Brasil 🇧🇷
+Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor Front-end, com experiência na criação de aplicações web modernas, responsivas e funcionais.
+
+Tenho interesse em desenvolver soluções digitais que atendam a necessidades reais, desde landing pages até sistemas de gestão e aplicações web completas.
+
+Atualmente, busco aprimorar minhas habilidades, desenvolver projetos próprios e ampliar minha experiência na construção de aplicações profissionais.
+
+💻 Desenvolvimento de interfaces modernas e responsivas.
+
+🚀 Criação de sistemas web e aplicações de gestão.
+
+🧩 Foco em organização, usabilidade e experiência do usuário.
+
+📚 Aprendizado contínuo e evolução profissional.
+
+🤝 Aberto a projetos, colaborações e oportunidades.
+
+Tecnologias e ferramentas
+⚛️
+
+React
+
+▲
+
+Next.js
+
+🔷
+
+TypeScript
+
+🟨
+
+JavaScript
+
+🟠
+
+HTML5
+
+🎨
+
+CSS3
+
+🌊
+
+Tailwind
+
+🟣
+
+Bootstrap
+
+⚡
+
+Vite
+
+🟢
+
+Supabase
+
+🐘
+
+PostgreSQL
+
+🔀
+
+Git
+
+Projetos em destaque
+
+Sistema de Agendamento
+
+Aplicação web para gerenciamento de agendamentos, com sincronização em tempo real, controle de horários e prevenção de conflitos entre reservas.
+
+React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL
+
+Objetivo profissional
+
+Meu objetivo é continuar evoluindo como desenvolvedor, criando aplicações que unam qualidade técnica, boa experiência de uso e soluções práticas para problemas reais.
+
+Contato
+
+GitHub · LinkedIn · Portfólio · E-mail
